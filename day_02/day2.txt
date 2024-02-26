@@ -1,0 +1,27 @@
+//To print string
+1.print()
+system.out.print("something");
+
+
+//To print in new lines
+
+2.println()
+system.out.println("something");
+
+
+3. "\n"
+system.out.print("something\n");
+
+                     =========== Data Types =========
+
+                                //          \\
+                               //            \\
+                            Primitive         Non-Primitive
+                              byte              string
+                              short             Array
+                              char              class
+                              boolean           object
+                              int               interface
+                              long              
+                              float
+                              double
